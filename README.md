@@ -1,1 +1,4 @@
-https://camo.githubusercontent.com/8fa84dc5ddd346a372e8ddf8cfa3411c1381d4270d3030a326c8d40abb506236/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f403a616464693030303030
+<div align="center">
+  <img src="https://static.wixstatic.com/media/aeb5ff_672de2a1db884eadbdaf506a436e271a~mv2.gif">
+  <br>
+  <img src="https://img.shields.io/github/stars/boyratata/song?color=6d00c1&logoColor=pink">
