@@ -7,9 +7,8 @@ $${\color{pink}Jay}$$
 ---
 
 ### About Me
-- I build **websites** and work with **Python**.  
-- Currently working on something **cool** for my website.  
-- Not for hire — coding is my passion, not a job.  
+- i make website for fun and maybe throw abit of python if i find it cool
+- mostly make it a website since websites are fun to make  
 
 ---
 
