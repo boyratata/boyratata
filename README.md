@@ -1,4 +1,4 @@
-$${\color{pink}Jay}$$
+$${\color{pink}Awkoro}$$
 
 ![Views](https://count.getloli.com/get/@boyratata?theme=anime)
 
