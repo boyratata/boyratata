@@ -1,9 +1,6 @@
 $${\color{pink}Jay}$$
 
-![Views](https://count.getloli.com/get/@boyratata?theme=asoul)
-![Views](https://count.getloli.com/get/@boyratata?theme=konachan)
-![Views](https://count.getloli.com/get/@boyratata?theme=k-on)
-![Views](https://count.getloli.com/get/@boyratata?theme=dark)
+![Views](https://count.getloli.com/get/@boyratata?theme=anime)
 
 ---
 
