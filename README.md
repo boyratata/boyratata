@@ -1,6 +1,4 @@
-<p align="center" style="font-family: 'Raleway', sans-serif; font-size: 36px; color: pink; font-weight: bold;">
-  Awkoro
-</p>
+{\color{pink}Awkoro}$$  
 
 <p align="center">
   <img src="https://count.getloli.com/get/@boyratata?theme=anime" alt="Views">
@@ -16,16 +14,16 @@
 
 ### About Me
 - I make websites for fun, sometimes toss in a bit of Python if it feels cool.
-- I enjoy building sites — it's fun making visuals and logic mix.
+- I enjoy building sites — it’s fun mixing visuals and logic.
 
 ---
 
 ### Languages I Use
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-FFB7C5?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS3-FFB7C5?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/JavaScript-FFB7C5?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-FFB7C5?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Git-FFB7C5?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/VS_Code-FFB7C5?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  ![HTML](https://img.shields.io/badge/HTML-FFB7C5?style=for-the-badge&logo=html5&logoColor=white&label=HTML)
+  ![CSS](https://img.shields.io/badge/CSS-FFB7C5?style=for-the-badge&logo=css3&logoColor=white&label=CSS)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-FFB7C5?style=for-the-badge&logo=javascript&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-FFB7C5?style=for-the-badge&logo=python&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-FFB7C5?style=for-the-badge&logo=git&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS%20Code-FFB7C5?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 </div>
