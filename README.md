@@ -12,7 +12,7 @@ $${\color{pink}Jay}$$
 
 ---
 
-### Tech I Use
+### languages I Use
 <div style="text-align: center;">
   <img src="https://img.shields.io/badge/HTML5-FFB7C5?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-FFB7C5?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
