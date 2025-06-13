@@ -25,5 +25,5 @@ $${\color{pink}Awkoro}$$
   <img src="https://img.shields.io/badge/JavaScript-FFB7C5?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
   <img src="https://img.shields.io/badge/Python-FFB7C5?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Git-FFB7C5?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/VS%20Code-FFB7C5?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/-VS%20Code-FFB7C5?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 </div>
