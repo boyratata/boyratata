@@ -1,4 +1,4 @@
-{\color{pink}Awkoro}$$  
+$${\color{pink}Awkoro}$$
 
 <p align="center">
   <img src="https://count.getloli.com/get/@boyratata?theme=anime" alt="Views">
@@ -20,10 +20,10 @@
 
 ### Languages I Use
 <div align="center">
-  ![HTML](https://img.shields.io/badge/HTML-FFB7C5?style=for-the-badge&logo=html5&logoColor=white&label=HTML)
-  ![CSS](https://img.shields.io/badge/CSS-FFB7C5?style=for-the-badge&logo=css3&logoColor=white&label=CSS)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-FFB7C5?style=for-the-badge&logo=javascript&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-FFB7C5?style=for-the-badge&logo=python&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-FFB7C5?style=for-the-badge&logo=git&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS%20Code-FFB7C5?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  <img src="https://img.shields.io/badge/HTML-FFB7C5?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-FFB7C5?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/JavaScript-FFB7C5?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-FFB7C5?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Git-FFB7C5?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/VS%20Code-FFB7C5?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 </div>
