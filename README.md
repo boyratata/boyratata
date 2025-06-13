@@ -1,5 +1,9 @@
 $${\color{pink}Jay}$$
 
+![Views](https://count.getloli.com/get/@boyratata?theme=rule34)
+
+---
+
 <div align="center">
   <img src="https://giffiles.alphacoders.com/209/209343.gif" alt="Vibes" width="400">
 </div>
